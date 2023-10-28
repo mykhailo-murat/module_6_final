@@ -1,0 +1,11 @@
+cpu 500
+cool 500
+mother 500
+ram 1000
+vid 1500
+power 1000
+ssd 500
+box 200
+
+=
++- 6000
